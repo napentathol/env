@@ -1,4 +1,4 @@
-export ZSH=/home/acw/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 ZSH_THEME="acw"
 

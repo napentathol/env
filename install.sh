@@ -1,3 +1,5 @@
+# to run this, run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/napentathol/env/master/install.sh)"`
+
 cd ~
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/napentathol/env.git
